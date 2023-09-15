@@ -43,8 +43,14 @@ export const handleSubmit = (
 5. Filter Instagram: ${values.pakaiFilter}
 ${filter}\n
 6. Nama yang didahulukan : ${values.namaAwal}\n
-7. Mempelai Wanita\n-Nama Panggilan : ${values.panggilanWanita}\n-Nama Lengkap : ${values.lengkapWanita}\n-Nama Kedua Orang Tua : Putri ${values.wanitaAnakKe} dari Bapak ${values.namaBapakWanita} dan Ibu ${values.namaIbuWanita}\n
-8. Mempelai Pria\n-Nama Panggilan : ${values.panggilanPria}\n-Nama Lengkap : ${values.lengkapPria}\n-Nama Kedua Orang Tua : Putra ${values.priaAnakKe} dari Bapak ${values.namaBapakPria} dan Ibu ${values.namaIbuPria}\n
+7. Mempelai Wanita
+-Nama Panggilan : ${values.panggilanWanita}
+-Nama Lengkap : ${values.lengkapWanita}
+-Nama Kedua Orang Tua : Putri ${values.wanitaAnakKe} dari Bapak ${values.namaBapakWanita} dan Ibu ${values.namaIbuWanita}\n
+8. Mempelai Pria
+-Nama Panggilan : ${values.panggilanPria}
+-Nama Lengkap : ${values.lengkapPria}
+-Nama Kedua Orang Tua : Putra ${values.priaAnakKe} dari Bapak ${values.namaBapakPria} dan Ibu ${values.namaIbuPria}\n
 9. Rincian Acara\n
 -Acara 1
 -${data}
@@ -87,8 +93,14 @@ ${noCatin}`);
 5. Filter Instagram: ${values.pakaiFilter}
 ${filter}\n
 6. Nama yang didahulukan : ${values.namaAwal}\n
-7. Mempelai Wanita\n-Nama Panggilan : ${values.panggilanWanita}\n-Nama Lengkap : ${values.lengkapWanita}\n-Nama Kedua Orang Tua : Putri ${values.wanitaAnakKe} dari Bapak ${values.namaBapakWanita} dan Ibu ${values.namaIbuWanita}\n
-8. Mempelai Pria\n-Nama Panggilan : ${values.panggilanPria}\n-Nama Lengkap : ${values.lengkapPria}\n-Nama Kedua Orang Tua : Putra ${values.priaAnakKe} dari Bapak ${values.namaBapakPria} dan Ibu ${values.namaIbuPria}\n
+7. Mempelai Wanita
+-Nama Panggilan : ${values.panggilanWanita}
+-Nama Lengkap : ${values.lengkapWanita}
+-Nama Kedua Orang Tua : Putri ${values.wanitaAnakKe} dari Bapak ${values.namaBapakWanita} dan Ibu ${values.namaIbuWanita}\n
+8. Mempelai Pria
+-Nama Panggilan : ${values.panggilanPria}
+-Nama Lengkap : ${values.lengkapPria}
+-Nama Kedua Orang Tua : Putra ${values.priaAnakKe} dari Bapak ${values.namaBapakPria} dan Ibu ${values.namaIbuPria}\n
 9. Rincian Acara\n
 -Acara 1
 -${data}
